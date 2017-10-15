@@ -1,0 +1,23 @@
+{
+  "name": "whetherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajubushanam/whether.git"
+  },
+  "author": "Raj Vanteddu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajubushanam/whether/issues"
+  },
+  "homepage": "https://github.com/rajubushanam/whether#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^8.0.2"
+  }
+}
