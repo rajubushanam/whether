@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rajubushanam/whether#readme",
   "dependencies": {
+    "axios": "^0.17.0",
     "request": "^2.83.0",
     "yargs": "^8.0.2"
   }
